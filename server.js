@@ -105,5 +105,5 @@ app.listen(port);
 // http.createServer(app,admin).listen(port);
 // app.listen(port);
 // admin.listen(port);
-console.log('Magic is happening on port' + port);
+console.log('The magic is happening on port' + port);
 
