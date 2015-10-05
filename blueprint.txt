@@ -1,0 +1,28 @@
+app/
+awk-sdk-js/
+gulp/
+ng/
+node_modules/
+public/
+	dashboard/
+		app/
+			controllers/
+			directives/
+			services/
+			views/
+			dash.js
+			dash.routes.js
+		/assets
+	website/
+		app/
+			controllers/
+			directives/
+			services/
+			views/
+			app.js
+			app.routes.js
+		/assets
+config.js
+gulpfile.js
+package.sjon
+server.js

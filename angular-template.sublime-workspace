@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"fullscreen-menu"
+			],
+			[
+				"random-",
+				"random-image-wrapper"
+			],
+			[
+				"get",
+				"getByID"
+			],
+			[
+				"socket",
+				"socket"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"mongo",
+				"MongoClient"
+			],
+			[
+				"_file",
+				"_fileSize"
+			],
+			[
+				"insert",
+				"_insertAtEnd"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"qu",
+				"QuickSort"
+			],
+			[
+				"get_Subchunk2",
+				"get_Subchunk2Size"
+			],
+			[
+				"get_SubC",
+				"get_Subchunk1ID"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"GetFile",
+				"GetFileLength"
+			],
+			[
+				"triangu",
+				"triangularArray"
+			],
+			[
+				"trian",
+				"triangularArray"
+			],
+			[
+				"detection",
+				"detectionRatio"
+			],
+			[
+				"detect",
+				"detectionRatio"
+			],
+			[
+				"set_fil",
+				"set_FileData"
+			],
+			[
+				"set_",
+				"set_FilePath"
+			],
+			[
+				"setTargetFil",
+				"setTargetFilePath"
+			],
+			[
+				"i",
+				"INCLUDE_PATH"
+			],
+			[
+				"shrinkhe",
+				"shrinkHeader2"
+			],
+			[
+				"shri",
+				"shrinkHeader2"
+			],
+			[
+				"BentonSans",
+				"BentonSans-Medium"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"which gcc",
+			"gcc",
+			"gcc -g main.cpp -o hello.exe",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/albertcarrete/Code/angular-template"
+	],
+	"file_history":
+	[
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/lumber.html",
+		"/Users/albertcarrete/Code/UDOF-final/.gitignore",
+		"/Users/albertcarrete/Code/UDOF/ng/css/base.styl",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/products/single.html",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/home.html",
+		"/Users/albertcarrete/Code/UDOF/ng/css/home.styl",
+		"/Users/albertcarrete/Code/UDOF/ng/css/product.styl",
+		"/Users/albertcarrete/Code/UDOF/ng/css/lumber.styl",
+		"/Users/albertcarrete/Code/UDOF/ng/css/contact.styl",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/contact.html",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/controllers/lumberCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/app.routes.js",
+		"/Users/albertcarrete/Code/UDOF/ng/css/header.styl",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/controllers/productCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/ng/css/footer.styl",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/index.html",
+		"/Users/albertcarrete/Code/UDOF/ng/css/about.styl",
+		"/Users/albertcarrete/Code/UDOF/ng/css/selection.styl",
+		"/Users/albertcarrete/Code/UDOF/server.js",
+		"/Users/albertcarrete/Code/UDOF/app/models/product.js",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/controllers/homeCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/app/routes/api.js",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/services/productService.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/controllers/productCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/products/single.html",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/products.html",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/products/category.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/controllers/colorCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/products/all.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/services/productService.js",
+		"/Users/albertcarrete/Code/UDOF/app/routes/private/api.js",
+		"/Users/albertcarrete/Downloads/CustomDropDownListStyling/css/style.css",
+		"/Users/albertcarrete/Downloads/CustomDropDownListStyling/index.html",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/controllers/contactCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/app.js",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/services/colorService.js",
+		"/Users/albertcarrete/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/about.html",
+		"/Users/albertcarrete/Downloads/CustomDropDownListStyling/index2.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/index.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/assets/css/font.css",
+		"/Users/albertcarrete/Code/UDOF/ng/css/font.styl",
+		"/Users/albertcarrete/Code/UDOF/public/website/assets/css/style.css",
+		"/Users/albertcarrete/Code/UDOF/gulp/css.js",
+		"/Users/albertcarrete/Code/UDOF/public/website/assets/css/app.css",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/colors/all.html",
+		"/Users/albertcarrete/Code/UDOF/ng/css-dashboard/list.styl",
+		"/Users/albertcarrete/Code/UDOF/ng/css-dashboard/edit.styl",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/categories/all.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/colors/single.html",
+		"/Users/albertcarrete/Code/UDOF/ng/css-dashboard/sideBar.styl",
+		"/Users/albertcarrete/Code/UDOF/ng/css-dashboard/main.styl",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/login.html",
+		"/Users/albertcarrete/Code/UDOF/ng/css-dashboard/login.styl",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/base.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/controllers/dashCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/services/colorService.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/dash.routes.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/dash.js",
+		"/Users/albertcarrete/Code/UDOF/app/models/color.js",
+		"/Users/albertcarrete/Code/UDOF/ng/staging/main.styl",
+		"/Users/albertcarrete/Dropbox/Font Tester/index.html",
+		"/Users/albertcarrete/Dropbox/Font Tester/style.css",
+		"/Users/albertcarrete/Dropbox/Font Tester/normalize.css",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/assets/css/normalize.css",
+		"/Users/albertcarrete/Code/UDOF/ng/css-dashboard/listing.styl",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/assets/css/skeleton.css",
+		"/Users/albertcarrete/Code/UDOF/ng/css-dashboard/editPane.styl",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/assets/css/dashboard.css",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/assets/css/css-dashboard.css",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/assets/img/icons/layers.png",
+		"/Users/albertcarrete/Code/HandymanContractor/public/app/controllers/serviceCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/assets/css/app.css",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/controllers/adminCtrl.js",
+		"/Users/albertcarrete/.Trash/client/website/app/app.routes.js",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/controllers/categoryCtrl.js",
+		"/Users/albertcarrete/Desktop/holding-area-temp-delete-later/client/dashboard/app/views/index.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/controllers/coreCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/website/app/views/pages/login-old.html",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/services/authService.js",
+		"/Users/albertcarrete/Desktop/holding-area-temp-delete-later/client/website/app/views/admin/index.html",
+		"/Users/albertcarrete/Desktop/holding-area-temp-delete-later/client/website/app/views/index.html",
+		"/Users/albertcarrete/Code/UDOF/client/website/app/views/index.html",
+		"/Users/albertcarrete/Code/UDOF/blueprint.txt",
+		"/Users/albertcarrete/Code/UDOF/public/dashboard/app/views/pages/simple.html",
+		"/Users/albertcarrete/Code/UDOF/client/dashboard/app/views/index.html",
+		"/Users/albertcarrete/Code/UDOF/client/dashboard/app/app.js",
+		"/Users/albertcarrete/Code/UDOF/client/dashboard/app/app.routes.js",
+		"/Users/albertcarrete/Code/UDOF/client/website/app/app.js",
+		"/Users/albertcarrete/Code/UDOF/client/dashboard/app/views/pages/simple.html",
+		"/Users/albertcarrete/Code/UDOF/client/website/app/app.routes.js",
+		"/Users/albertcarrete/Code/UDOF/client/dashboard/app/controllers/adminCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/package.json",
+		"/Users/albertcarrete/Code/UDOF/client/dashboard/app/views/admin/index.html",
+		"/Users/albertcarrete/Code/UDOF/client/website/app/views/pages/home.html",
+		"/Users/albertcarrete/Code/UDOF/public/assets/css/skeleton.css",
+		"/Users/albertcarrete/Code/UDOF/public/assets/css/style.css",
+		"/Users/albertcarrete/Code/UDOF/public/assets/css/normalize.css",
+		"/Users/albertcarrete/Code/UDOF/public/app/views/general/pages/home.html",
+		"/Users/albertcarrete/Code/UDOF/public/app/app.routes.js",
+		"/Users/albertcarrete/Code/UDOF/public/app/controllers/adminCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/gulp/server.js",
+		"/Users/albertcarrete/Code/UDOF/gulpfile.js",
+		"/Users/albertcarrete/Code/UDOF/public/app/controllers/homeCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/private/app/app.js",
+		"/Users/albertcarrete/Code/UDOF/private/app/app.routes.js",
+		"/Users/albertcarrete/Code/UDOF/client/website/app/views/admin/index.html",
+		"/Users/albertcarrete/Code/UDOF/app/models/category.js",
+		"/Users/albertcarrete/Code/UDOF/app/models/page.js",
+		"/Users/albertcarrete/Code/UDOF/app/models/user.js",
+		"/Users/albertcarrete/Code/UDOF/config.js",
+		"/Users/albertcarrete/Code/UDOF/public/app/app.js",
+		"/Users/albertcarrete/Code/UDOF/node_modules/gulp-nodemon/package.json",
+		"/Users/albertcarrete/Code/UDOF/public/app/views/general/index.html",
+		"/Users/albertcarrete/Code/UDOF/public/app/views/index.html",
+		"/Users/albertcarrete/Code/HandymanContractor/.gitignore",
+		"/Users/albertcarrete/Code/ac2292777/.gitignore",
+		"/Users/albertcarrete/Code/MeanMachine/17-user-crm/public/app/controllers/mainCtrl.js",
+		"/Users/albertcarrete/Code/UDOF/public/app/views/admin/index.html",
+		"/Users/albertcarrete/Code/MeanMachine/17-user-crm/public/app/views/index.html",
+		"/Users/albertcarrete/Code/MeanMachine/17-user-crm/app/routes/api.js",
+		"/Users/albertcarrete/Code/eclipse/workspace/SideScroller_CSC18B/README.md",
+		"/Users/albertcarrete/Code/JavadaServer/app/models/game.js",
+		"/Users/albertcarrete/Code/JavadaServer/app/models/user.js",
+		"/Users/albertcarrete/Code/MS.MongoConnect/backup-servercode.js",
+		"/Users/albertcarrete/Code/MSGameServer2/server.js",
+		"/Users/albertcarrete/Code/MS.MongoConnect/app/models/lobby.js",
+		"/Users/albertcarrete/Code/MS.MongoConnect/app/models/tester.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/albertcarrete/Code/MeanMachine/17-user-crm",
+			"Handler.cpp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dd",
+			"color",
+			"big-picture",
+			"single",
+			"selection-textbox",
+			"selection",
+			"randomProduct",
+			"/products",
+			"attention",
+			"listing-icon",
+			"top-level-category",
+			"contact",
+			"selection",
+			"selection img",
+			"deletePriceItme",
+			"deletePriceItem",
+			"deletePrice",
+			"categoryAll",
+			"about",
+			"quote",
+			"container",
+			"selected-color",
+			"single",
+			"h4",
+			"image-wrapper",
+			"vertical-align",
+			"img",
+			"detail-pane",
+			"big-picture",
+			"span",
+			"single",
+			"delete",
+			"category",
+			"container",
+			"product",
+			"hero h4",
+			"listing-icon",
+			"listing-cion",
+			"listing-icon",
+			".text",
+			"container",
+			"hero-content",
+			"hero-container",
+			"delete",
+			"logo",
+			"delete",
+			"/colors",
+			"fullscreen",
+			"label",
+			"pricing-table-edit",
+			"section-one",
+			"image-group",
+			"image-wrapper",
+			"iamge-wrapper",
+			"form-section",
+			"border",
+			"body",
+			"#sidebar .expanded",
+			"container",
+			"left",
+			"font",
+			"font-weight",
+			"/gotham/",
+			"new-[roce",
+			"hover",
+			"button",
+			"utton",
+			"image-wrapper",
+			"button",
+			"image-wrapper",
+			"form-group",
+			"image-wrapper",
+			"table",
+			"gra",
+			"radius",
+			"edit",
+			"max-width",
+			"form",
+			"updateImageUrl",
+			"uploadSaveProduct",
+			"deleteController",
+			"sidebar",
+			"main",
+			"main-view",
+			"updateImageURL",
+			"assets",
+			"console.log",
+			"privapi",
+			"me",
+			"UDOF",
+			"colorfast",
+			"line",
+			"font-family",
+			".one-half",
+			"column",
+			"one-half",
+			"info-section",
+			"sub-hero p",
+			"letter-spacing",
+			"PlayerCords",
+			"playersCords",
+			"getPlayers",
+			"maxPlayers",
+			"uname",
+			"padding",
+			"main",
+			"req.param",
+			"on",
+			">			",
+			");\n",
+			"border",
+			"button",
+			"row",
+			"console",
+			"nav-bar",
+			"user",
+			"authenticate",
+			"app",
+			"users",
+			"_id",
+			"hero",
+			"service",
+			"service-heading",
+			"value",
+			"section-desc",
+			"section",
+			"headerMap",
+			"split"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/gotham-webfont/",
+			"workspace",
+			"heightify",
+			"datum",
+			"headerMap",
+			"AUDFile",
+			"Trig",
+			"statClass2",
+			"Node",
+			"columnArray",
+			"consolemessage",
+			"bmp",
+			".hero-container",
+			"nav"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular-template.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
