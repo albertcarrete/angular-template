@@ -1,7 +1,4 @@
 .DS_Store
 .DS_Store?
-ng/
 node_modules/
-gulp/
-gulpfile.js
 aws-sdk-js/
